@@ -32,7 +32,7 @@ class SearchComponent extends Component {
         return this.props.planetSearch.map((item, index) => {
             console.log(this.props.planetSearch);
             return (
-                <li className="list-group-item" key={index} style={{ fontSize: (13 + 3 * index) }}>
+                <li className="list-group-item" key={index} style={{ fontSize: (12 + index) }}>
                     {item.name} {item.population} {item.terrain}
                 </li>
             );
