@@ -21,6 +21,3 @@ Search by text
 
 ![Signature](https://github.com/PrabhunathY/react-list-sample/blob/master/docs/search-text.png "React Login UI Form")
 
-#### React Planet Listing Search
-![Signature](https://github.com/PrabhunathY/react-list-sample/blob/master/docs/react-list-search.png "React Login UI Form")
-
