@@ -1,4 +1,4 @@
-This project is React listing of planets, popuated from public API
+This project is React listing of planets, populated from public API
 
 ### Available Scripts
 
